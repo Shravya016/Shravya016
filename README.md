@@ -1,3 +1,4 @@
+![logo](https://github.com/Shravya016/Shravya016/blob/main/GitHub%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shravya Pamu</h1>
 <h3 align="center">A passionate machine learning developer</h3>
 <img align="right" alt="coding" width="300"  src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
