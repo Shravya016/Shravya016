@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Shravya Pamu</h1>
 <h3 align="center">A passionate machine learning developer</h3>
 <h3 align="center">I am a Mtech student pursuing computer science at CBIT </h3>
-<img align="right" alt="coding" width="300"  src="https://octodex.github.com/labtocat/">
+<img align="right" alt="labtocat" width="300"
+src="https://octodex.github.com/images/labtocat.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shravya016&label=Profile%20views&color=0e75b6&style=flat" alt="shravya016" /> </p>
 
 - 🌱 I’m currently learning **machine learning, data science,gen ai**
