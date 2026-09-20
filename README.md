@@ -21,3 +21,5 @@ src="https://octodex.github.com/images/labtocat.png">
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shravya016&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Shravya016&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shravya016&show_icons=true&theme=radical&cache_seconds=86400)
