@@ -23,3 +23,5 @@ src="https://octodex.github.com/images/labtocat.png">
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Shravya016&theme=radical)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shravya016&show_icons=true&theme=radical&cache_seconds=86400)
+
+https://github-stats-extended.vercel.app/api?username=shravya016&theme=radical
